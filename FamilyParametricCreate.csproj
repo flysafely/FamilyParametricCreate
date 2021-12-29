@@ -31,6 +31,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CMCUAPI2021">
+      <HintPath>.\CMCUAPI2021.dll</HintPath>
+    </Reference>
+    <Reference Include="CMCUDotNet, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\CMCUDotNet.dll</HintPath>
+    </Reference>
     <Reference Include="RevitAPI">
       <HintPath>C:\Program Files\Autodesk\Revit 2021\RevitAPI.dll</HintPath>
     </Reference>
@@ -47,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FamilyLoadOptions.cs" />
     <Compile Include="FamilyParametricCreate.cs" />
     <Compile Include="FloorSelector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

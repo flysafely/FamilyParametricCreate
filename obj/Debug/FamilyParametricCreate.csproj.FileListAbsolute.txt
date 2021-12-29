@@ -75,4 +75,6 @@ F:\RevitProjects\FamilyParametricCreate\obj\Debug\FamilyParametricCreate.csproj.
 F:\RevitProjects\FamilyParametricCreate\obj\Debug\FamilyParametricCreate.csproj.CopyComplete
 F:\RevitProjects\FamilyParametricCreate\obj\Debug\FamilyParametricCreate.dll
 F:\RevitProjects\FamilyParametricCreate\obj\Debug\FamilyParametricCreate.pdb
+F:\RevitProjects\FamilyParametricCreate\bin\Debug\CMCUAPI2021.dll
+F:\RevitProjects\FamilyParametricCreate\bin\Debug\CMCUDotNet.dll
 F:\RevitProjects\FamilyParametricCreate\obj\Debug\FamilyParametricCreate.csproj.AssemblyReference.cache
